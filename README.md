@@ -71,7 +71,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-09-29 142418.png>)
+![model](1.png)
 ## RESULT:
 The program is executed successfully
 
@@ -248,7 +248,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-09-29 142844.png>)
+![model](2.png)
 ## RESULT:
 The program is executed successfully
 
@@ -364,7 +364,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-09-29 143033.png>)
+![model]3.png)
 ## RESULT:
 The program is executed successfully
 
@@ -438,7 +438,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-09-29 143242.png>)
+![model](4.png)
 ## RESULT:
 The program is executed successfully
 
@@ -512,6 +512,6 @@ int main() {
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-09-29 143541.png>)
+![model](5.png)
 ## RESULT:
 The program is executed successfully
