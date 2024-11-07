@@ -364,7 +364,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![model]3.png)
+![model](3.png)
 ## RESULT:
 The program is executed successfully
 
